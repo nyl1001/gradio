@@ -25,6 +25,7 @@ No changes to highlight.
 ## Full Changelog:
 
 - Fixed IPv6 listening to work with bracket [::1] notation, by [@dsully](https://github.com/dsully) in [PR 3695](https://github.com/gradio-app/gradio/pull/3695)
+- Solve the problem of 403 error reported by remote access with auth，by[nyl1001](https://github.com/nyl1001) in [PR 3754](https://github.com/gradio-app/gradio/pull/3754)
 
 ## Contributors Shoutout:
 
